@@ -1,2 +1,2 @@
 # ToDo_List
-Created with CodeSandbox
+Todo list practice using React & Redux
